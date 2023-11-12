@@ -1,0 +1,8 @@
+print('Cadastro de Veículos\n')
+marca = input('Marca: ')
+modelo = input('Modelo: ')
+ano = input('Ano: ')
+print('Veículo cadastrado com sucesso!')
+print('Marca: ' + marca)
+print('Modelo: ' + modelo)
+print('Ano: ' + ano)
